@@ -16,7 +16,7 @@ The work included:
 
 ## Important: Execution Environment
 
-**This project was designed and trained on Kaggle** to leverage the free access to high-performance GPUs, which were not available privately. The file paths within the Jupyter Notebook (`nlp-projekt_gilbert_sahitaj.ipynb`) point to the Kaggle environment's dataset locations and **will not run on a local machine without modification.**
+**This project was designed and trained on Kaggle** to leverage the free access to high-performance GPUs, which were not available privately. The file paths within the Jupyter Notebook (`nlp-project2_gilbert_sahitaj.ipynb`) point to the Kaggle environment's dataset locations and **will not run on a local machine without modification.**
 
 For full reproducibility and to execute the models in their intended environment, please use the official Kaggle Notebook:
 
@@ -64,14 +64,14 @@ Here is an overview of the project's directory structure:
 │       └── ... (other model weights)
 │
 ├── .gitignore
-├── nlp-projekt_gilbert_sahitaj.ipynb
+├── nlp-project2_gilbert_sahitaj.ipynb
 ├── Project2_Gilbert_Sahitaj.pdf
 └── README.md
 ```
 
 ### File Descriptions
 
-* **`nlp-projekt_gilbert_sahitaj.ipynb`**: The main Jupyter Notebook containing all code for data preprocessing, model implementation, training, and evaluation.
+* **`nlp-project2_gilbert_sahitaj.ipynb`**: The main Jupyter Notebook containing all code for data preprocessing, model implementation, training, and evaluation.
 * **`Project2_Gilbert_Sahitaj.pdf`**: The final project report, detailing the methodology, results, and conclusions.
 * **`README.md`**: This file.
 * **`.gitignore`**: Specifies which files and folders (like `data/` and `output/`) should be ignored by Git.
