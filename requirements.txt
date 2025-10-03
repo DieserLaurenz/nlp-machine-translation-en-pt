@@ -1,0 +1,18 @@
+# Core Data Science & Plotting
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+
+# NLP Libraries
+nltk
+gensim
+sacrebleu
+scikit-learn
+
+# Machine Learning Framework
+tensorflow
+
+# Utilities
+tqdm
